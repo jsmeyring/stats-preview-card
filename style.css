@@ -115,7 +115,7 @@ div.queries > p{
 div.img{
     grid-area: img;
     max-width: 100%;
-    max-height: 99.2%;
+    max-height: 99.1%;
     background-color: hsl(277, 64%, 61%);
     border-radius: 0px 8px 8px 0px;
     opacity: 1;
